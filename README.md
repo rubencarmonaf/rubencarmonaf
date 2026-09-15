@@ -23,4 +23,4 @@ I’m a Full Stack Developer and designer who strives to build high-quality web 
 
 | 💼 LinkedIn | 🐙 GitHub | ✉️ Email |
 | :--- | :--- | :--- |
-| [tu-linkedin](https://linkedin.com/in/rubencarmonaf) | [@tu-usuario](https://github.com/rubencarmonaf) | [tu-email@gmail.com](mailto:rubencarmonaf@gmail.com) |
+| [in/roman-albella](https://linkedin.com/in/rubencarmonaf) | [@rubencarmonaf](https://github.com/rubencarmonaf) | [rubencarmonaf@gmail.com](mailto:rubencarmonaf@gmail.com) |
