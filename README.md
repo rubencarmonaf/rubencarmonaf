@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rubén Carmona 👋
 
-<!--
-**rubencarmonaf/rubencarmonaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Developer and designer who strives to build high-quality web and mobile experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Senior Frontend Developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Tech Stack**
+
+* **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Angular, Next.js.
+* **Styling & Design:** CSS3, Tailwind CSS, Figma, SASS.
+* **Backend & Tools:** Node.js, Express, PostgreSQL, Git.
+* **DevOps & Cloud:** Vercel, GitHub Actions.
+
+---
+
+🚀 **Featured Projects**
+
+* **[Words Game]((https://github.com/rubencarmonaf/words-game)):** A competitive online word game with an Elo ranking system, developed in TypeScript with Node.js.
+
+---
+
+📬 **Let's Connect**
+
+| 💼 LinkedIn | 🐙 GitHub | ✉️ Email |
+| :--- | :--- | :--- |
+| [tu-linkedin](https://linkedin.com/in/rubencarmonaf) | [@tu-usuario](https://github.com/rubencarmonaf) | [tu-email@gmail.com](mailto:rubencarmonaf@gmail.com) |
