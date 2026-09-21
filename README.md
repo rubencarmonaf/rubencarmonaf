@@ -15,7 +15,7 @@ I’m a Full Stack Developer and designer who strives to build high-quality web 
 
 🚀 **Featured Projects**
 
-* **[Words Game]((https://wordwars-ab0f.onrender.com/)):** A competitive online word game with an Elo ranking system, developed in TypeScript with Node.js.
+* **[Words Game](https://wordwars-ab0f.onrender.com/):** A competitive online word game with an Elo ranking system, developed in TypeScript with Node.js.
 
 ---
 
