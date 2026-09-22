@@ -9,7 +9,7 @@ I’m a Full Stack Developer and designer who strives to build high-quality web 
 * **Languages & Frameworks:** JavaScript (ES6+), TypeScript, Angular, Next.js.
 * **Styling & Design:** CSS3, Tailwind CSS, Figma, SASS.
 * **Backend & Tools:** Node.js, Express, PostgreSQL, Git.
-* **DevOps & Cloud:** Vercel, GitHub Actions.
+* **DevOps & Cloud:** Vercel, Render, GitHub Actions, Google Cloud.
 
 ---
 
