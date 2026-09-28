@@ -1,6 +1,6 @@
 # Hi, I'm Rubén Carmona 👋
 
-I’m a Full Stack Developer and designer who strives to build high-quality web and mobile experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Senior Frontend Developer.
+I’m a Full Stack Developer and designer who strives to build high-quality web and mobile experiences through clean, maintainable code and thoughtful design. I’m currently working full-time as a Senior Full Stack Developer.
 
 ---
 
